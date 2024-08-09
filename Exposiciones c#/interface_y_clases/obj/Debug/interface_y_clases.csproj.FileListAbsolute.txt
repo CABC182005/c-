@@ -1,0 +1,7 @@
+C:\Users\SENA\Documents\Exposiciones c#\interface_y_clases\bin\Debug\interface_y_clases.exe.config
+C:\Users\SENA\Documents\Exposiciones c#\interface_y_clases\bin\Debug\interface_y_clases.exe
+C:\Users\SENA\Documents\Exposiciones c#\interface_y_clases\bin\Debug\interface_y_clases.pdb
+C:\Users\SENA\Documents\Exposiciones c#\interface_y_clases\obj\Debug\interface_y_clases.csproj.AssemblyReference.cache
+C:\Users\SENA\Documents\Exposiciones c#\interface_y_clases\obj\Debug\interface_y_clases.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\Exposiciones c#\interface_y_clases\obj\Debug\interface_y_clases.exe
+C:\Users\SENA\Documents\Exposiciones c#\interface_y_clases\obj\Debug\interface_y_clases.pdb

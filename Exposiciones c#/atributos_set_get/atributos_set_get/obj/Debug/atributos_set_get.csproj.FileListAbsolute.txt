@@ -1,0 +1,7 @@
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\atributos_set_get\atributos_set_get\bin\Debug\atributos_set_get.exe.config
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\atributos_set_get\atributos_set_get\bin\Debug\atributos_set_get.exe
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\atributos_set_get\atributos_set_get\bin\Debug\atributos_set_get.pdb
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\atributos_set_get\atributos_set_get\obj\Debug\atributos_set_get.csproj.AssemblyReference.cache
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\atributos_set_get\atributos_set_get\obj\Debug\atributos_set_get.csproj.CoreCompileInputs.cache
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\atributos_set_get\atributos_set_get\obj\Debug\atributos_set_get.exe
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\atributos_set_get\atributos_set_get\obj\Debug\atributos_set_get.pdb

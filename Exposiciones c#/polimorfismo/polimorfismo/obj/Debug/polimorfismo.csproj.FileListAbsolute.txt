@@ -1,0 +1,7 @@
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\polimorfismo\polimorfismo\obj\Debug\polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\polimorfismo\polimorfismo\obj\Debug\polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\polimorfismo\polimorfismo\bin\Debug\polimorfismo.exe.config
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\polimorfismo\polimorfismo\bin\Debug\polimorfismo.exe
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\polimorfismo\polimorfismo\bin\Debug\polimorfismo.pdb
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\polimorfismo\polimorfismo\obj\Debug\polimorfismo.exe
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\polimorfismo\polimorfismo\obj\Debug\polimorfismo.pdb

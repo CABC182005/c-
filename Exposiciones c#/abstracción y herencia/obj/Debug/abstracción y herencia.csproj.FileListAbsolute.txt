@@ -1,0 +1,7 @@
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\abstracción y herencia\bin\Debug\abstracción y herencia.exe.config
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\abstracción y herencia\bin\Debug\abstracción y herencia.exe
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\abstracción y herencia\bin\Debug\abstracción y herencia.pdb
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\abstracción y herencia\obj\Debug\abstracción y herencia.csproj.AssemblyReference.cache
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\abstracción y herencia\obj\Debug\abstracción y herencia.csproj.CoreCompileInputs.cache
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\abstracción y herencia\obj\Debug\abstracción y herencia.exe
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\abstracción y herencia\obj\Debug\abstracción y herencia.pdb

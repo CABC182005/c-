@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Camilo Cuellar\\Documents\\Exposiciones c#\\encapsulamiento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70DB243C-BC38-4B6B-AC15-6B240D7F1B06}|encapsulamiento\\encapsulamiento.csproj|c:\\users\\camilo cuellar\\documents\\exposiciones c#\\encapsulamiento\\encapsulamiento\\cuenta_bancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DB243C-BC38-4B6B-AC15-6B240D7F1B06}|encapsulamiento\\encapsulamiento.csproj|solutionrelative:encapsulamiento\\cuenta_bancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DB243C-BC38-4B6B-AC15-6B240D7F1B06}|encapsulamiento\\encapsulamiento.csproj|c:\\users\\camilo cuellar\\documents\\exposiciones c#\\encapsulamiento\\encapsulamiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DB243C-BC38-4B6B-AC15-6B240D7F1B06}|encapsulamiento\\encapsulamiento.csproj|solutionrelative:encapsulamiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cuenta_bancaria.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo Cuellar\\Documents\\Exposiciones c#\\encapsulamiento\\encapsulamiento\\cuenta_bancaria.cs",
+              "RelativeDocumentMoniker": "encapsulamiento\\cuenta_bancaria.cs",
+              "ToolTip": "C:\\Users\\Camilo Cuellar\\Documents\\Exposiciones c#\\encapsulamiento\\encapsulamiento\\cuenta_bancaria.cs",
+              "RelativeToolTip": "encapsulamiento\\cuenta_bancaria.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:54:14.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo Cuellar\\Documents\\Exposiciones c#\\encapsulamiento\\encapsulamiento\\Program.cs",
+              "RelativeDocumentMoniker": "encapsulamiento\\Program.cs",
+              "ToolTip": "C:\\Users\\Camilo Cuellar\\Documents\\Exposiciones c#\\encapsulamiento\\encapsulamiento\\Program.cs",
+              "RelativeToolTip": "encapsulamiento\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:49:32.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

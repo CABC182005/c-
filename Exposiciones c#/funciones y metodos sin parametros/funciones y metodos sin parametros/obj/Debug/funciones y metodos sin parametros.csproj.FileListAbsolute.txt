@@ -1,0 +1,7 @@
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\funciones y metodos sin parametros\funciones y metodos sin parametros\obj\Debug\funciones y metodos sin parametros.csproj.AssemblyReference.cache
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\funciones y metodos sin parametros\funciones y metodos sin parametros\obj\Debug\funciones y metodos sin parametros.csproj.CoreCompileInputs.cache
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\funciones y metodos sin parametros\funciones y metodos sin parametros\bin\Debug\funciones y metodos sin parametros.exe.config
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\funciones y metodos sin parametros\funciones y metodos sin parametros\bin\Debug\funciones y metodos sin parametros.exe
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\funciones y metodos sin parametros\funciones y metodos sin parametros\bin\Debug\funciones y metodos sin parametros.pdb
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\funciones y metodos sin parametros\funciones y metodos sin parametros\obj\Debug\funciones y metodos sin parametros.exe
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\funciones y metodos sin parametros\funciones y metodos sin parametros\obj\Debug\funciones y metodos sin parametros.pdb

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Camilo Cuellar\\Documents\\Exposiciones c#\\abstracci\u00F3n y herencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83DDD637-6398-4DD5-B97E-A1086373ABD5}|abstracci\u00F3n y herencia.csproj|c:\\users\\camilo cuellar\\documents\\exposiciones c#\\abstracci\u00F3n y herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DDD637-6398-4DD5-B97E-A1086373ABD5}|abstracci\u00F3n y herencia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DDD637-6398-4DD5-B97E-A1086373ABD5}|abstracci\u00F3n y herencia.csproj|c:\\users\\camilo cuellar\\documents\\exposiciones c#\\abstracci\u00F3n y herencia\\cunta_bancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DDD637-6398-4DD5-B97E-A1086373ABD5}|abstracci\u00F3n y herencia.csproj|solutionrelative:cunta_bancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83DDD637-6398-4DD5-B97E-A1086373ABD5}|abstracci\u00F3n y herencia.csproj|c:\\users\\camilo cuellar\\documents\\exposiciones c#\\abstracci\u00F3n y herencia\\cuenta_ahorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83DDD637-6398-4DD5-B97E-A1086373ABD5}|abstracci\u00F3n y herencia.csproj|solutionrelative:cuenta_ahorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cuenta_ahorro.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo Cuellar\\Documents\\Exposiciones c#\\abstracci\u00F3n y herencia\\cuenta_ahorro.cs",
+              "RelativeDocumentMoniker": "cuenta_ahorro.cs",
+              "ToolTip": "C:\\Users\\Camilo Cuellar\\Documents\\Exposiciones c#\\abstracci\u00F3n y herencia\\cuenta_ahorro.cs",
+              "RelativeToolTip": "cuenta_ahorro.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:12:35.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cunta_bancaria.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo Cuellar\\Documents\\Exposiciones c#\\abstracci\u00F3n y herencia\\cunta_bancaria.cs",
+              "RelativeDocumentMoniker": "cunta_bancaria.cs",
+              "ToolTip": "C:\\Users\\Camilo Cuellar\\Documents\\Exposiciones c#\\abstracci\u00F3n y herencia\\cunta_bancaria.cs",
+              "RelativeToolTip": "cunta_bancaria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:09:28.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo Cuellar\\Documents\\Exposiciones c#\\abstracci\u00F3n y herencia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Camilo Cuellar\\Documents\\Exposiciones c#\\abstracci\u00F3n y herencia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T21:55:18.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

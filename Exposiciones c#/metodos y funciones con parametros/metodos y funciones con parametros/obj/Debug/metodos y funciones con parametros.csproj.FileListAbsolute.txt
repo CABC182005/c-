@@ -1,0 +1,7 @@
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\metodos y funciones con parametros\metodos y funciones con parametros\bin\Debug\metodos y funciones con parametros.exe.config
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\metodos y funciones con parametros\metodos y funciones con parametros\bin\Debug\metodos y funciones con parametros.exe
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\metodos y funciones con parametros\metodos y funciones con parametros\bin\Debug\metodos y funciones con parametros.pdb
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\metodos y funciones con parametros\metodos y funciones con parametros\obj\Debug\metodos y funciones con parametros.csproj.AssemblyReference.cache
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\metodos y funciones con parametros\metodos y funciones con parametros\obj\Debug\metodos y funciones con parametros.csproj.CoreCompileInputs.cache
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\metodos y funciones con parametros\metodos y funciones con parametros\obj\Debug\metodos y funciones con parametros.exe
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\metodos y funciones con parametros\metodos y funciones con parametros\obj\Debug\metodos y funciones con parametros.pdb

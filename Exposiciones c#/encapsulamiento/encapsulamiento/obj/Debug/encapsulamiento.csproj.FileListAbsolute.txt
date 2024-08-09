@@ -1,0 +1,7 @@
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\encapsulamiento\encapsulamiento\bin\Debug\encapsulamiento.exe.config
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\encapsulamiento\encapsulamiento\bin\Debug\encapsulamiento.exe
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\encapsulamiento\encapsulamiento\bin\Debug\encapsulamiento.pdb
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\encapsulamiento\encapsulamiento\obj\Debug\encapsulamiento.csproj.AssemblyReference.cache
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\encapsulamiento\encapsulamiento\obj\Debug\encapsulamiento.csproj.CoreCompileInputs.cache
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\encapsulamiento\encapsulamiento\obj\Debug\encapsulamiento.exe
+C:\Users\Camilo Cuellar\Documents\Exposiciones c#\encapsulamiento\encapsulamiento\obj\Debug\encapsulamiento.pdb
