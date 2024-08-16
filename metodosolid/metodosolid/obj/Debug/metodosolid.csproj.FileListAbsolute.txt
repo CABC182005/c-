@@ -1,0 +1,7 @@
+E:\Evaluacion\metodosolid\metodosolid\bin\Debug\metodosolid.exe.config
+E:\Evaluacion\metodosolid\metodosolid\bin\Debug\metodosolid.exe
+E:\Evaluacion\metodosolid\metodosolid\bin\Debug\metodosolid.pdb
+E:\Evaluacion\metodosolid\metodosolid\obj\Debug\metodosolid.csproj.AssemblyReference.cache
+E:\Evaluacion\metodosolid\metodosolid\obj\Debug\metodosolid.csproj.CoreCompileInputs.cache
+E:\Evaluacion\metodosolid\metodosolid\obj\Debug\metodosolid.exe
+E:\Evaluacion\metodosolid\metodosolid\obj\Debug\metodosolid.pdb

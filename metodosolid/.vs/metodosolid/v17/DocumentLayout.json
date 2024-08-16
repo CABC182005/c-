@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Evaluacion\\metodosolid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5F6A5E-60A9-4EAF-9080-99C11DAE9F72}|metodosolid\\metodosolid.csproj|e:\\evaluacion\\metodosolid\\metodosolid\\principio de inversi\u00F3n de dependencias (dip)\\ienviadormensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB5F6A5E-60A9-4EAF-9080-99C11DAE9F72}|metodosolid\\metodosolid.csproj|solutionrelative:metodosolid\\principio de inversi\u00F3n de dependencias (dip)\\ienviadormensajes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEnviadorMensajes.cs",
+              "DocumentMoniker": "E:\\Evaluacion\\metodosolid\\metodosolid\\Principio de Inversi\u00F3n de Dependencias (DIP)\\IEnviadorMensajes.cs",
+              "RelativeDocumentMoniker": "metodosolid\\Principio de Inversi\u00F3n de Dependencias (DIP)\\IEnviadorMensajes.cs",
+              "ToolTip": "E:\\Evaluacion\\metodosolid\\metodosolid\\Principio de Inversi\u00F3n de Dependencias (DIP)\\IEnviadorMensajes.cs",
+              "RelativeToolTip": "metodosolid\\Principio de Inversi\u00F3n de Dependencias (DIP)\\IEnviadorMensajes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:37:20.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
