@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Camilo security\\ModuleSecurity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C280230A-ABF6-4A75-94A0-927D9AEFE052}|Entity\\Entity.csproj|e:\\camilo security\\modulesecurity\\entity\\migrations\\20240920222426_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C280230A-ABF6-4A75-94A0-927D9AEFE052}|Entity\\Entity.csproj|solutionrelative:entity\\migrations\\20240920222426_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C280230A-ABF6-4A75-94A0-927D9AEFE052}|Entity\\Entity.csproj|e:\\camilo security\\modulesecurity\\entity\\model\\security\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C280230A-ABF6-4A75-94A0-927D9AEFE052}|Entity\\Entity.csproj|solutionrelative:entity\\model\\security\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240920222426_Inicial.cs",
+              "DocumentMoniker": "E:\\Camilo security\\ModuleSecurity\\Entity\\Migrations\\20240920222426_Inicial.cs",
+              "RelativeDocumentMoniker": "Entity\\Migrations\\20240920222426_Inicial.cs",
+              "ToolTip": "E:\\Camilo security\\ModuleSecurity\\Entity\\Migrations\\20240920222426_Inicial.cs",
+              "RelativeToolTip": "Entity\\Migrations\\20240920222426_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T22:24:27.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "City.cs",
+              "DocumentMoniker": "E:\\Camilo security\\ModuleSecurity\\Entity\\Model\\Security\\City.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Security\\City.cs",
+              "ToolTip": "E:\\Camilo security\\ModuleSecurity\\Entity\\Model\\Security\\City.cs",
+              "RelativeToolTip": "Entity\\Model\\Security\\City.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T22:18:58.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

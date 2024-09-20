@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="DbModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="DbModelContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="PersonSet" EntityType="DbModel.Person" />
+    <EntitySet Name="UserSet" EntityType="DbModel.User" />
+    <EntitySet Name="UserRoleSet" EntityType="DbModel.UserRole" />
+    <EntitySet Name="RoleSet" EntityType="DbModel.Role" />
+    <EntitySet Name="RoleViewSet" EntityType="DbModel.RoleView" />
+    <EntitySet Name="ViewSet" EntityType="DbModel.View" />
+    <EntitySet Name="ModuleSet" EntityType="DbModel.Module" />
+    <AssociationSet Name="UserRoleUser" Association="DbModel.UserRoleUser">
+      <End Role="UserRole" EntitySet="UserRoleSet" />
+      <End Role="User" EntitySet="UserSet" />
+    </AssociationSet>
+    <AssociationSet Name="UserRoleRole" Association="DbModel.UserRoleRole">
+      <End Role="UserRole" EntitySet="UserRoleSet" />
+      <End Role="Role" EntitySet="RoleSet" />
+    </AssociationSet>
+    <AssociationSet Name="RoleViewRole" Association="DbModel.RoleViewRole">
+      <End Role="RoleView" EntitySet="RoleViewSet" />
+      <End Role="Role" EntitySet="RoleSet" />
+    </AssociationSet>
+    <AssociationSet Name="RoleViewView" Association="DbModel.RoleViewView">
+      <End Role="RoleView" EntitySet="RoleViewSet" />
+      <End Role="View" EntitySet="ViewSet" />
+    </AssociationSet>
+    <AssociationSet Name="ViewModule" Association="DbModel.ViewModule">
+      <End Role="View" EntitySet="ViewSet" />
+      <End Role="Module" EntitySet="ModuleSet" />
+    </AssociationSet>
+    <EntitySet Name="citySet" EntityType="DbModel.city" />
+    <AssociationSet Name="cityPerson" Association="DbModel.cityPerson">
+      <End Role="city" EntitySet="citySet" />
+      <End Role="Person" EntitySet="PersonSet" />
+    </AssociationSet>
+    <EntitySet Name="StateSet" EntityType="DbModel.State" />
+    <AssociationSet Name="Statecity" Association="DbModel.Statecity">
+      <End Role="State" EntitySet="StateSet" />
+      <End Role="city" EntitySet="citySet" />
+    </AssociationSet>
+    <EntitySet Name="CountrieSet" EntityType="DbModel.Countrie" />
+    <AssociationSet Name="CountrieState" Association="DbModel.CountrieState">
+      <End Role="Countrie" EntitySet="CountrieSet" />
+      <End Role="State" EntitySet="StateSet" />
+    </AssociationSet>
+    <AssociationSet Name="PersonUser" Association="DbModel.PersonUser">
+      <End Role="Person" EntitySet="PersonSet" />
+      <End Role="User" EntitySet="UserSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Person">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="First_name" Type="String" Nullable="false" />
+    <Property Name="Last_name" Type="String" Nullable="false" />
+    <Property Name="Email" Type="String" Nullable="false" />
+    <Property Name="Addres" Type="String" Nullable="false" />
+    <Property Name="Type_document" Type="String" Nullable="false" />
+    <Property Name="Document" Type="Int16" Nullable="false" />
+    <Property Name="Birth_of_date" Type="DateTime" Nullable="false" />
+    <Property Name="CreateAt" Type="String" Nullable="false" />
+    <Property Name="UpdateAt" Type="String" Nullable="false" />
+    <Property Name="DeleteAt" Type="String" Nullable="false" />
+    <Property Name="Phone" Type="Int16" Nullable="false" />
+    <Property Name="State" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="city" Relationship="DbModel.cityPerson" FromRole="Person" ToRole="city" />
+    <Property Name="cityId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="User" Relationship="DbModel.PersonUser" FromRole="Person" ToRole="User" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" Nullable="false" />
+    <Property Name="Password" Type="String" Nullable="false" />
+    <Property Name="CreateAt" Type="String" Nullable="false" />
+    <Property Name="UpdateAt" Type="String" Nullable="false" />
+    <Property Name="DeleteAt" Type="String" Nullable="false" />
+    <Property Name="State" Type="Boolean" Nullable="false" />
+    <Property Name="PersonId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Person" Relationship="DbModel.PersonUser" FromRole="User" ToRole="Person" />
+  </EntityType>
+  <EntityType Name="UserRole">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CreateAt" Type="String" Nullable="false" />
+    <Property Name="UpdateAt" Type="String" Nullable="false" />
+    <Property Name="DeleteAt" Type="String" Nullable="false" />
+    <Property Name="State" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="IdUser" Relationship="DbModel.UserRoleUser" FromRole="UserRole" ToRole="User" />
+    <NavigationProperty Name="IdRole" Relationship="DbModel.UserRoleRole" FromRole="UserRole" ToRole="Role" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <Property Name="Description" Type="String" Nullable="false" />
+    <Property Name="CreateAt" Type="String" Nullable="false" />
+    <Property Name="UpdateAt" Type="String" Nullable="false" />
+    <Property Name="DeleteAt" Type="String" Nullable="false" />
+    <Property Name="State" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="RoleView">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CreateAt" Type="String" Nullable="false" />
+    <Property Name="UpdateAt" Type="String" Nullable="false" />
+    <Property Name="DeleteAt" Type="String" Nullable="false" />
+    <Property Name="State" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="IdRole" Relationship="DbModel.RoleViewRole" FromRole="RoleView" ToRole="Role" />
+    <NavigationProperty Name="IdView" Relationship="DbModel.RoleViewView" FromRole="RoleView" ToRole="View" />
+  </EntityType>
+  <EntityType Name="View">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <Property Name="Description" Type="String" Nullable="false" />
+    <Property Name="CreateAt" Type="String" Nullable="false" />
+    <Property Name="UpdateAt" Type="String" Nullable="false" />
+    <Property Name="DeleteAt" Type="String" Nullable="false" />
+    <Property Name="State" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="IdModule" Relationship="DbModel.ViewModule" FromRole="View" ToRole="Module" />
+  </EntityType>
+  <EntityType Name="Module">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" Nullable="false" />
+    <Property Name="CreateAt" Type="String" Nullable="false" />
+    <Property Name="UpdateAt" Type="String" Nullable="false" />
+    <Property Name="DeleteAt" Type="String" Nullable="false" />
+    <Property Name="State" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <Association Name="UserRoleUser">
+    <End Type="DbModel.UserRole" Role="UserRole" Multiplicity="*" />
+    <End Type="DbModel.User" Role="User" Multiplicity="1" />
+  </Association>
+  <Association Name="UserRoleRole">
+    <End Type="DbModel.UserRole" Role="UserRole" Multiplicity="*" />
+    <End Type="DbModel.Role" Role="Role" Multiplicity="1" />
+  </Association>
+  <Association Name="RoleViewRole">
+    <End Type="DbModel.RoleView" Role="RoleView" Multiplicity="*" />
+    <End Type="DbModel.Role" Role="Role" Multiplicity="1" />
+  </Association>
+  <Association Name="RoleViewView">
+    <End Type="DbModel.RoleView" Role="RoleView" Multiplicity="*" />
+    <End Type="DbModel.View" Role="View" Multiplicity="1" />
+  </Association>
+  <Association Name="ViewModule">
+    <End Type="DbModel.View" Role="View" Multiplicity="*" />
+    <End Type="DbModel.Module" Role="Module" Multiplicity="1" />
+  </Association>
+  <EntityType Name="city">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PostalCode" Type="String" Nullable="false" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <Property Name="CreatreAt" Type="String" Nullable="false" />
+    <Property Name="DeleteAt" Type="String" Nullable="false" />
+    <Property Name="UpdateAt" Type="String" Nullable="false" />
+    <NavigationProperty Name="PersonId" Relationship="DbModel.cityPerson" FromRole="city" ToRole="Person" />
+    <NavigationProperty Name="State" Relationship="DbModel.Statecity" FromRole="city" ToRole="State" />
+    <Property Name="StateId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="cityPerson">
+    <End Type="DbModel.city" Role="city" Multiplicity="1" />
+    <End Type="DbModel.Person" Role="Person" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="city">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Person">
+        <PropertyRef Name="cityId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="State">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <Property Name="CreateAt" Type="String" Nullable="false" />
+    <Property Name="UpdateAt" Type="String" Nullable="false" />
+    <Property Name="DeleteAt" Type="String" Nullable="false" />
+    <NavigationProperty Name="cityId" Relationship="DbModel.Statecity" FromRole="State" ToRole="city" />
+    <NavigationProperty Name="Countrie" Relationship="DbModel.CountrieState" FromRole="State" ToRole="Countrie" />
+    <Property Name="CountrieId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="Statecity">
+    <End Type="DbModel.State" Role="State" Multiplicity="1" />
+    <End Type="DbModel.city" Role="city" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="State">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="city">
+        <PropertyRef Name="StateId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Countrie">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" />
+    <Property Name="CreateAt" Type="String" Nullable="false" />
+    <Property Name="UpdateAt" Type="String" Nullable="false" />
+    <Property Name="DeleteAt" Type="String" Nullable="false" />
+    <NavigationProperty Name="StateId" Relationship="DbModel.CountrieState" FromRole="Countrie" ToRole="State" />
+  </EntityType>
+  <Association Name="CountrieState">
+    <End Type="DbModel.Countrie" Role="Countrie" Multiplicity="1" />
+    <End Type="DbModel.State" Role="State" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Countrie">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="State">
+        <PropertyRef Name="CountrieId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="PersonUser">
+    <End Type="DbModel.Person" Role="Person" Multiplicity="1" />
+    <End Type="DbModel.User" Role="User" Multiplicity="1" />
+  </Association>
+</Schema>

@@ -1,0 +1,613 @@
+C:\Users\Lenovo\OneDrive\Documentos\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documentos\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\OneDrive\Documentos\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.sourcelink.json
+C:\Users\Lenovo\OneDrive\Documentos\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.dll
+C:\Users\Lenovo\OneDrive\Documentos\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\refint\Web.dll
+C:\Users\Lenovo\OneDrive\Documentos\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.pdb
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\appsettings.json
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Web.exe
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Web.deps.json
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Web.runtimeconfig.json
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Web.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Web.pdb
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Dapper.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Humanizer.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Business.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Data.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Entity.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Business.pdb
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Entity.pdb
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\bin\Debug\net8.0\Data.pdb
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.csproj.AssemblyReference.cache
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.AssemblyInfo.cs
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.sourcelink.json
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Web.props
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web.props
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web.props
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\scopedcss\bundle\Web.styles.css
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.csproj.Up2Date
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\refint\Web.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.pdb
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\Web.genruntimeconfig.cache
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Web\obj\Debug\net8.0\ref\Web.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\appsettings.json
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Web.exe
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Web.deps.json
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Web.runtimeconfig.json
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Web.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Web.pdb
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Dapper.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Humanizer.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Business.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Data.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Entity.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Business.pdb
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Entity.pdb
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\bin\Debug\net8.0\Data.pdb
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\Web.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\Web.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\Web.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Web.props
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web.props
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web.props
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\scopedcss\bundle\Web.styles.css
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\Web.csproj.Up2Date
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\Web.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\refint\Web.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\Web.pdb
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\Web.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Web\obj\Debug\net8.0\ref\Web.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\appsettings.Development.json
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\appsettings.json
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Web.exe
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Web.deps.json
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Web.runtimeconfig.json
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Web.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Web.pdb
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Azure.Core.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Azure.Identity.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Dapper.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Google.Protobuf.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Humanizer.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\MySql.Data.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\System.CodeDom.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\System.Memory.Data.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\ZstdSharp.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Business.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Data.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Entity.dll
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Business.pdb
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Entity.pdb
+E:\gasca security\ModuleSecurity\Web\bin\Debug\net8.0\Data.pdb
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\Web.csproj.AssemblyReference.cache
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\Web.AssemblyInfoInputs.cache
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\Web.AssemblyInfo.cs
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\Web.csproj.CoreCompileInputs.cache
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cs
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cache
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets.build.json
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets.development.json
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Web.props
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web.props
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web.props
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets.pack.json
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\scopedcss\bundle\Web.styles.css
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\Web.csproj.Up2Date
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\Web.dll
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\refint\Web.dll
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\Web.pdb
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\Web.genruntimeconfig.cache
+E:\gasca security\ModuleSecurity\Web\obj\Debug\net8.0\ref\Web.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\appsettings.Development.json
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\appsettings.json
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Web.exe
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Web.deps.json
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Web.runtimeconfig.json
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Web.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Web.pdb
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Azure.Core.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Azure.Identity.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Dapper.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Google.Protobuf.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Humanizer.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\MySql.Data.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\System.CodeDom.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\ZstdSharp.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Business.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Data.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Entity.dll
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Business.pdb
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Entity.pdb
+E:\Camilo security\ModuleSecurity\Web\bin\Debug\net8.0\Data.pdb
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\Web.csproj.AssemblyReference.cache
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\Web.AssemblyInfoInputs.cache
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\Web.AssemblyInfo.cs
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\Web.csproj.CoreCompileInputs.cache
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cs
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets.build.json
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets.development.json
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Web.props
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web.props
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web.props
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\scopedcss\bundle\Web.styles.css
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\Web.csproj.Up2Date
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\Web.dll
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\refint\Web.dll
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\Web.pdb
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\Web.genruntimeconfig.cache
+E:\Camilo security\ModuleSecurity\Web\obj\Debug\net8.0\ref\Web.dll

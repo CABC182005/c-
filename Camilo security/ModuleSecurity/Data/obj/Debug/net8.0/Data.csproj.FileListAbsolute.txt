@@ -1,0 +1,67 @@
+C:\Users\Lenovo\OneDrive\Documentos\ModuleSecurity\ModuleSecurity\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Documentos\ModuleSecurity\ModuleSecurity\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documentos\ModuleSecurity\ModuleSecurity\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\ModuleSecurity\ModuleSecurity\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documentos\ModuleSecurity\ModuleSecurity\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documentos\ModuleSecurity\ModuleSecurity\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Data\bin\Debug\net8.0\Data.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Data\bin\Debug\net8.0\Entity.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Data\bin\Debug\net8.0\Entity.pdb
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Data\obj\Debug\net8.0\Data.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\SENA\Documents\JulianADSO2694667\ModuleSecurity\ModuleSecurity\Data\obj\Debug\net8.0\ref\Data.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Data\bin\Debug\net8.0\Data.deps.json
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Data\bin\Debug\net8.0\Data.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Data\bin\Debug\net8.0\Data.pdb
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Data\bin\Debug\net8.0\Entity.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Data\bin\Debug\net8.0\Entity.pdb
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Data\obj\Debug\net8.0\Data.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Data\obj\Debug\net8.0\Data.pdb
+C:\Users\USUARIO\Desktop\jm\ModuleSecurity-c2232bcb06ca040c29ad4f8f2a3c23bb2d80b586\ModuleSecurity\Data\obj\Debug\net8.0\ref\Data.dll
+E:\gasca security\ModuleSecurity\Data\bin\Debug\net8.0\Data.deps.json
+E:\gasca security\ModuleSecurity\Data\bin\Debug\net8.0\Data.dll
+E:\gasca security\ModuleSecurity\Data\bin\Debug\net8.0\Data.pdb
+E:\gasca security\ModuleSecurity\Data\bin\Debug\net8.0\Entity.dll
+E:\gasca security\ModuleSecurity\Data\bin\Debug\net8.0\Entity.pdb
+E:\gasca security\ModuleSecurity\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+E:\gasca security\ModuleSecurity\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\gasca security\ModuleSecurity\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+E:\gasca security\ModuleSecurity\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+E:\gasca security\ModuleSecurity\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+E:\gasca security\ModuleSecurity\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+E:\gasca security\ModuleSecurity\Data\obj\Debug\net8.0\Data.dll
+E:\gasca security\ModuleSecurity\Data\obj\Debug\net8.0\refint\Data.dll
+E:\gasca security\ModuleSecurity\Data\obj\Debug\net8.0\Data.pdb
+E:\gasca security\ModuleSecurity\Data\obj\Debug\net8.0\ref\Data.dll
+E:\Camilo security\ModuleSecurity\Data\bin\Debug\net8.0\Data.deps.json
+E:\Camilo security\ModuleSecurity\Data\bin\Debug\net8.0\Data.dll
+E:\Camilo security\ModuleSecurity\Data\bin\Debug\net8.0\Data.pdb
+E:\Camilo security\ModuleSecurity\Data\bin\Debug\net8.0\Entity.dll
+E:\Camilo security\ModuleSecurity\Data\bin\Debug\net8.0\Entity.pdb
+E:\Camilo security\ModuleSecurity\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+E:\Camilo security\ModuleSecurity\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Camilo security\ModuleSecurity\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+E:\Camilo security\ModuleSecurity\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+E:\Camilo security\ModuleSecurity\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+E:\Camilo security\ModuleSecurity\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+E:\Camilo security\ModuleSecurity\Data\obj\Debug\net8.0\Data.dll
+E:\Camilo security\ModuleSecurity\Data\obj\Debug\net8.0\refint\Data.dll
+E:\Camilo security\ModuleSecurity\Data\obj\Debug\net8.0\Data.pdb
+E:\Camilo security\ModuleSecurity\Data\obj\Debug\net8.0\ref\Data.dll
